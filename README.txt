@@ -1,17 +1,8 @@
-PART 1
+PART 2
 
-Hello there!
+Oh, sorry! Wrong way!
 
-We are gonna play a little game of hide and seek: you will look for git mastery and I'll be your guide.
+You are in the git-game repository but I meant the name of the full course you've just started.
 
-First, congratulations on getting here and let's start this journey of discovery.
-You used a command to get this repository that started with `git clone` followed a Github URL.
-This URL is composed of several parts: the github.com part followed by two values separated by a `/`.
-
-The first value is the owner of the repository and the second one is the name of the repository.
-That allows for different people to use the same repository name.
-
-And with that information, we will start our journey, I want you to go on another branch!
-The name of that bramch is the repository owner of this repository.
-
-Good luck!
+For this one time, I will give you the name of the branch you must go to, but just this time.
+Go to the branch 'camp2'
