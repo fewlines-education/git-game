@@ -1,6 +1,7 @@
-PART 3
+PART 4
 
-Oh here you are!
-Someone messed with the timeline and erased my message for you!
+Hi again, there was another timeline problem: some parts of what I want to tell you have been set in another universe.
+I need you to "rebase" this universe with ours. The past messages went to the branch earth2
 
-Please, find the last thing I said on this branch by using `git log`!
+But this branch is not yet synchronised with you and only sits on the remote repository.
+So you will need to do something like `git rebase origin/BRANCH_NAME` with the branch that has the past messages
