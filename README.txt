@@ -12,4 +12,4 @@ It will be hidden inside a lot of junk but I hope you will be able to decipher i
 So... Yeah, it's really inside a big ball of mud but it have been scattered across two universes.
 You will need to look at the differences between what you've received inside the file bottle.txt
 and the branch earth_42. You can always check the difference between one of your files and another version
-in another branch, you just need to use the command: git diff another_branch your_file.
+in another branch, you just need to use the command: git diff origin/ANOTHER_BRANCH your_file.
