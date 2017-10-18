@@ -1,5 +1,6 @@
 PART 3
 
-Hurray, you're here!
+Oh here you are!
+Someone messed with the timeline and erased my message for you!
 
-Quick, go to the branch `biff`!
+Please, find the last thing I said on this branch by using `git log`!
